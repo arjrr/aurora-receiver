@@ -85,7 +85,6 @@ void loop() {
   }
     
     //Real
-    /*
     Serial.print(1);
     Serial.print(ta[0]);
     Serial.print(tg[0]);
@@ -110,10 +109,9 @@ void loop() {
     Serial.print(ta[5]);
     Serial.print(tg[5]);
     Serial.print(ur[5]);
-   */
     
     //Monitor 
-    
+    /*
     Serial.println(1);
     Serial.println(ta[0]);
     Serial.println(tg[0]);
@@ -138,7 +136,7 @@ void loop() {
     Serial.println(ta[5]);
     Serial.println(tg[5]);
     Serial.println(ur[5]);
-    
+    */
 
     //Teste
     /*
